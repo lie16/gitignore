@@ -1,2 +1,9 @@
+#ignor all files in the directory
 /.project
+bin/
+
+#ignore single file
 new-file.txt
+
+#ignore all .tmp files
+*.tmp
