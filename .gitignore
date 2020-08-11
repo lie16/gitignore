@@ -3,7 +3,7 @@
 bin/
 
 #ignore single file
-new-file.txt
+another-file.txt
 
 #ignore all .tmp files
 *.tmp
